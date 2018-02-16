@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'The Gray Web Blog',
+    title: 'The Gray Web Blog 2',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
